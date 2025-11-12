@@ -8,6 +8,12 @@ This project explores how **public and self-hosted AI models** can control **phy
 
 ---
 
+## 🧱 Hardware note: LEGO model choice
+
+I'm not yet settled on a specific LEGO build (EV3/Robot Inventor variants, custom humanoids, etc.). The immediate focus is the software and control architecture — getting the AI → MCP → motion loop solid — rather than the perfect DIY LEGO robot. The exact model can evolve as the control stack matures.
+
+---
+
 ## 🚀 Vision
 
 The long-term goal is to make humanoid robotics accessible and intelligent enough for **home use**, starting with affordable platforms and open tools.
@@ -119,6 +125,46 @@ It translates high-level natural language intents into low-level motion commands
 
 This project builds upon decades of curiosity — from LEGO robotics to modern AI embodiment.  
 It’s a playground for creators, educators, and dreamers exploring how **AI can coexist with humans** in a tangible, helpful way.
+
+### Inspiration gallery (with sources)
+
+These examples and kits are reference points for motion capabilities and mechanical ideas. Images include descriptive alt text and link back to their sources.
+
+- LEGO design: Robot Inventor 51515 “Charlie” (official build guide)  
+  ![Cover page of LEGO 51515 Charlie build guide showing a small, friendly wheeled robot with expressive eyes](./Lego_51515_Charlie.JPG)<br>
+  Alt: Cover page of LEGO 51515 Charlie build guide showing a small, friendly wheeled robot with expressive eyes.  
+
+  Source (PDF): https://www.lego.com/cdn/product-assets/product.bi.additional.main.pdf/51515_Charlie.pdf  
+
+- Custom example (using 51515 set): LEGO Mindstorms DELTA REX! A Lego Humanoid Robot  
+  ![LEGO Mindstorms humanoid-style robot standing on a table with articulated limbs](./Lego_51515_custom_example.jpg)<br>
+  Alt: YouTube thumbnail showing a LEGO Mindstorms humanoid-style robot standing on a table with articulated limbs.  
+
+  Source: https://www.youtube.com/watch?v=wpLpnLu-Av4
+
+- LEGO design: EV3 “EV3RSTORM” (official build guide)  
+![Cover page of LEGO EV3 EV3RSTORM build guide showing a robust bipedal robot with a launcher arm and sensors](./Lego_31313_EV3RSTORM.JPG)<br>
+  Alt: Cover page of LEGO EV3 EV3RSTORM build guide showing a robust bipedal robot with a launcher arm and sensors.  
+
+  Source (PDF): https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/31313_X_EV3RSTORM.pdf  
+
+- Custom example (using 31313 set): The Humanoid – TOD (LEGO Ideas)  
+  ![Concept renders of a LEGO humanoid model "TOD" with a balanced biped stance and articulated arms](./Lego_31313_custom_example.JPG)<br>
+  Alt: Concept renders of a LEGO humanoid model "TOD" with a balanced biped stance and articulated arms.  
+
+  Source: https://beta.ideas.lego.com/product-ideas/0e07a3c7-437d-4854-8a83-2f72d1422e98  
+
+- Hiwonder AiNex (humanoid robot)  
+![Hiwonder AiNex educational humanoid robot with camera head, servo joints, and metal frame](./Hiwonder_AiNex_Biped_Humanoid_Robot_Raspberry_Pi.JPG)<br>
+  Alt: Hiwonder AiNex educational humanoid robot with camera head, servo joints, and metal frame.  
+
+  Source: https://www.hiwonder.com/products/ainex?variant=40257678147671  
+
+- Noetix Robotics — Bumi 
+![Noetix humanoid/robot lineup used for education and research; target inspiration for future stage](./Noetix_Robotics_Bumi_bipedal_humanoid.JPG)<br>
+  Alt: Noetix humanoid/robot lineup used for education and research; target inspiration for future stage.  
+
+  Source: https://noetixrobotics.com/products.html  
 
 ---
 
